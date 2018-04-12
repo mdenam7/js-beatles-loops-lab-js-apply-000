@@ -16,7 +16,7 @@ theBeatlesPlay(musicians , instruments);
 
 
 const facts = [ "Lennon left the Beatles in 1969" , "Lennon was born in 1940", "Lennon married Cynthia Powell" , "He was killed by a crazy fan" ];
-function johnLennonFacts(){
+function johnLennonFacts(facts){
 
   var myArray = [];
   var i = 0;
